@@ -1,3 +1,6 @@
+orbs:
+  python: circleci/python@1.4.0
+
 name: Ubuntu SSH
 on: 
   workflow_dispatch:
